@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Rebekah Riess and Jay Croft, CNN",
+    "title": "California wildfires grow as evacuations are ordered - CNN",
+    "description": null,
+    "url": "https://www.cnn.com/2022/09/03/us/northern-california-wildfires/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220903132408-01-northern-california-wildfires-super-tease.jpg",
+    "publishedAt": "2022-09-04T04:15:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Pete Muntean, Theresa Waldrop, Sharif Paget",
+    "title": "Pilot arrested after threatening to crash plane into Mississippi Walmart and eventually landing in a field, police say - CNN",
+    "description": "A worker at an airport who stole a twin-engine plane Saturday morning and threatened to crash it into a Mississippi Walmart was arrested after he eventually landed in a field, police said.",
+    "url": "https://www.cnn.com/2022/09/03/us/tupelo-mississippi-pilot-threatens-walmart/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220903095853-01-tupelo-mississippi-pilot-threatens-walmart.jpg?q=w_800,c_fill",
+    "publishedAt": "2022-09-04T03:42:00Z",
+    "content": "A worker at an airport who stole a twin-engine plane Saturday morning and threatened to crash it into a Mississippi Walmart was arrested after he eventually landed in a field, police said.\r\nIn a news… [+3113 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "Tom Fornelli",
+    "title": "Ohio State vs. Notre Dame score, takeaways: No. 2 Buckeyes battle back to overcome No. 5 Fighting Irish - CBS Sports",
+    "description": "The lone top-five matchup of Week 1 was just as exciting as expected",
+    "url": "https://www.cbssports.com/college-football/news/ohio-state-vs-notre-dame-score-takeaways-no-2-buckeyes-battle-back-to-overcome-no-5-fighting-irish/live/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/04/6c1c34e7-18ec-4b61-807e-bf4c158fec68/thumbnail/1200x675/95300e6d6548382cd5f1cc1b8adea95c/chip-trayanum-usatsi.jpg",
+    "publishedAt": "2022-09-04T03:41:00Z",
+    "content": "No. 2 Ohio State overcame lackluster play and an injury to one of their star players while battling back and ultimately beating No. 5 Notre Dame 21-10 in an exciting season opener. The Buckeyes trail… [+5172 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Paul Myerberg, USA TODAY",
+    "title": "College football Week 1 winners and losers: Georgia rolls, Oregon flops - USA TODAY",
+    "description": "The opening weekend of college football season saw some highs and lows, including an impressive performance by defending champion Georgia.",
+    "url": "https://www.usatoday.com/story/sports/ncaaf/2022/09/03/college-football-week-1-winners-and-losers-georgia-oklahoma-cruise/7972847001/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2022/09/03/USAT/7df967a9-8331-4f62-927b-5381fe3556ff-USATSI_18980687.jpg?auto=webp&crop=3935,2213,x0,y120&format=pjpg&width=1200",
+    "publishedAt": "2022-09-04T03:40:49Z",
+    "content": "You might need a program to get a handle on No. 3 Georgia's depth chart. Five players from last year's team went in the first round of the NFL draft and nine were taken within the first 102 picks, pa… [+9726 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hollywood Reporter"
+    },
+    "author": "Carolyn Giardina",
+    "title": "Creative Arts Emmys Night One Winners List – The Hollywood Reporter - Hollywood Reporter",
+    "description": "The Beatles: Get Back and Adele: One Night Only won five awards apiece during the first of the two-night presentation of the Creative Arts Emmys on Saturday at the Microsoft Theater in Los Angeles. The Beatles: Get Back delivered two Emmys to Peter Jackson, f…",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/creative-arts-emmys-night-one-winners-list-1235207142/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/09/Winners-Creative-Emys-2022_07-emmy_noms_template-01.jpg?w=1024",
+    "publishedAt": "2022-09-04T02:38:31Z",
+    "content": "The Beatles: Get Back and Adele: One Night Only won five awards apiece during the first of the two-night presentation of the Creative Arts Emmys on Saturday at the Microsoft Theater in Los Angeles.\r\n… [+46069 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Ciryl Gane: 'I Want to go Back to the Belt, I Want my Chance Another Time' | UFC Paris - UFC - Ultimate Fighting Championship",
+    "description": null,
+    "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DadDSRQjibLY",
+    "urlToImage": null,
+    "publishedAt": "2022-09-04T02:29:33Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Andrew Miller",
+    "title": "Trump slams 'Third World' raid on his home, says FBI agents rifled through Barron's, Melania's belongings - Fox News",
+    "description": "Former President Donald Trump blasted the Biden administration Saturday night calling the recent FBI raid on his home a trampling of his rights and liberties.",
+    "url": "https://www.foxnews.com/politics/trump-slams-third-world-raid-home-says-fbi-agents-rifled-through-barron-melanias-belongings",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/GettyImages-1330458437.jpg",
+    "publishedAt": "2022-09-04T01:59:11Z",
+    "content": "Former President Donald Trump reacted to the recent FBI raid on his Florida home during a rally on Saturday night by accusing the Biden administration of \"Third World\" tactics.\r\n\"The Biden administra… [+2740 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Alix Breeden",
+    "title": "Oliver Shane Hawkins plays drums on 'My Hero' to honor late dad Taylor during Foo Fighters tribute - New York Post ",
+    "description": "Sixteen-year-old Oliver Shane Hawkins played the drums during “My Hero” in place of his father in London for the “Taylor Hawkins Tribute Concert.”",
+    "url": "https://nypost.com/2022/09/03/taylor-hawkins-son-oliver-shane-plays-drums-during-foo-fighters-tribute/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/09/newspress-collage-23730898-1662252835298.jpg?quality=75&strip=all&1662238475&w=1024",
+    "publishedAt": "2022-09-04T01:07:00Z",
+    "content": "To him, dad was not so ordinary a hero. \r\nThe son of late Foo Fighters drummer Taylor Hawkins performed onstage in memory of his father Saturday night.\r\nSixteen-year-old Oliver Shane Hawkins played d… [+1416 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "William Harwood",
+    "title": "Hydrogen leak forces multi-week delay for Artemis moon rocket - CBS News",
+    "description": "Another frustrating delay for NASA's star-crossed SLS moon rocket.",
+    "url": "https://www.cbsnews.com/news/artemis-1-moon-rocket-launch-scrubbed-hydrogen-leak-nasa/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/03/7acf8b69-5072-44e0-9880-90de3130157b/thumbnail/1200x630/1380f7232229c5a56e5481794a888967/090322-dawn1.jpg",
+    "publishedAt": "2022-09-04T00:56:00Z",
+    "content": "NASA's star-crossed Space Launch System moon rocket was grounded for the second time in five days Saturday, this time by a large hydrogen leak in a fuel line quick-disconnect fitting that will delay … [+6084 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Klyuchevskaya Sopka: Climbers killed during a fall on Russian volcano - BBC",
+    "description": "Six people are known to have died and rescuers are unable to reach survivors, local media say.",
+    "url": "https://www.bbc.com/news/world-europe-62784189",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13446/production/_126581987_sopka_getty.png",
+    "publishedAt": "2022-09-04T00:55:14Z",
+    "content": "At least six people have died while climbing Eurasia's highest active volcano in eastern Russia's eastern Kamchatka region, local media report.\r\nThey say rescuers are unable to reach another six clim… [+876 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Joseph Menn, Taylor Lorenz",
+    "title": "Cloudflare drops KiwiFarms - The Washington Post",
+    "description": "Cloudfare Chief Executive Matthew Prince told The Washington Post he would no longer protect the site becaause of a surge in credible violent threats stemming from the site.",
+    "url": "https://www.washingtonpost.com/technology/2022/09/03/cloudflare-drops-kiwifarms/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZCUPXFRIVUI63KIK7TSACXP4R4.jpg&w=1440",
+    "publishedAt": "2022-09-04T00:43:51Z",
+    "content": "Comment on this story\r\nSAN FRANCISCO Reversing course under growing public pressure, major tech security company Cloudflare announced Saturday that it will stop protecting the Kiwi Farms website, bes… [+8250 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Jane Clinton, Léonie Chao-Fong, Christy Cooney",
+    "title": "Russia-Ukraine war latest: what we know on day 193 of the invasion - The Guardian",
+    "description": "Zaporizhzhia nuclear plant relying on reserve power line amid shelling; EU says it will meet energy challenge if Russia fails to deliver on gas contracts",
+    "url": "https://amp.theguardian.com/world/2022/sep/04/russia-ukraine-war-latest-what-we-know-on-day-193-of-the-invasion",
+    "urlToImage": "https://i.guim.co.uk/img/media/9b84e5aa3f3d539c23a9645e73cb11bdf8bbb445/0_3_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85c5c5fb15b78b54384cb8772fd52599",
+    "publishedAt": "2022-09-04T00:36:00Z",
+    "content": "<li>The Zaporizhzhia nuclear power plant has been disconnected from its last remaining main power line to the grid and is relying on a reserve line, the International Atomic Energy Agency said. Previ… [+3060 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "Marc Levy",
+    "title": "Trump moves to general election mode with Pennsylvania rally - The Associated Press",
+    "description": "WILKES-BARRE, Pa. (AP) — Larry Mitko voted for Donald Trump  in 2016. But the Republican from Beaver County in western Pennsylvania says he has no plans to back his party's nominee for Senate, Dr.",
+    "url": "https://apnews.com/article/abortion-2022-midterm-elections-donald-trump-presidential-pennsylvania-a4ff7b3916db0f2babf439f5c9e8184b",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/7a765627c4df4efdab80aaa76b18f1e7/3000.jpeg",
+    "publishedAt": "2022-09-04T00:22:30Z",
+    "content": "WILKES-BARRE, Pa. (AP) Larry Mitko voted for Donald Trump in 2016. But the Republican from Beaver County in western Pennsylvania says he has no plans to back his partys nominee for Senate, Dr. Mehmet… [+7230 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Jackson water crisis: A legacy of environmental racism? - BBC",
+    "description": "Experts say the crisis in the US city is the result of generations of discrimination and segregation.",
+    "url": "https://www.bbc.com/news/world-us-canada-62783900",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/847E/production/_126581933_marshall_jpg.jpg",
+    "publishedAt": "2022-09-04T00:11:31Z",
+    "content": "By Chi Chi Izundu, Mohamed Madi &amp; Chelsea Bailey in Jackson, Mississippi\r\nMarshall lives in west Jackson, in the US state of Mississippi - a predominantly black and poor part of the city. He has … [+6848 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Adam Sabes",
+    "title": "Abducted Eliza Fletcher: Memphis police say 'vehicle of interest' located, male detained, Eliza still missing - Fox News",
+    "description": "Memphis police say that they have located a \"vehicle of interest\" and also said that one person has been arrested, but the missing mother has not been found.",
+    "url": "https://www.foxnews.com/us/abducted-eliza-fletcher-memphis-police-say-vehicle-interest-located-male-detained-eliza-still-missing",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/Eliza-Fletcher-Memphis-Police-Department.jpg",
+    "publishedAt": "2022-09-03T22:51:03Z",
+    "content": "Memphis police say that a \"vehicle of interest\" has been located and added that one male in the car has been arrested, but the abducted kindergarten teacher Eliza Fletcher\r\n is still missing.\r\nPolice… [+2505 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "FBI found more than 11000 government records at Trump's Florida home - Reuters",
+    "description": "The FBI recovered more than 11,000 government documents and photographs during its Aug. 8 search at former President Donald Trump's Florida estate, as well as 48 empty folders labeled as \"classified,\" according to court records that were unsealed on Friday.",
+    "url": "https://www.reuters.com/world/us/us-court-unseals-more-documents-stemming-fbi-search-trumps-home-2022-09-02/",
+    "urlToImage": "https://www.reuters.com/resizer/-qDoS0AmXAYvYOqe74gg-sZN6kc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QN7SCD7KAVIDHI3EVDNBIZCWX4.jpg",
+    "publishedAt": "2022-09-03T22:14:00Z",
+    "content": "WASHINGTON, Sept 2 (Reuters) - The FBI recovered more than 11,000 government documents and photographs during its Aug. 8 search at former President Donald Trump's Florida estate, as well as 48 empty … [+4372 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Jon Levine",
+    "title": "Pennsylvania iron workers blast Biden's student loan forgiveness - New York Post ",
+    "description": "Blue collar Pennsylvania iron workers took a harsh view of President Biden’s $500 billion student loan giveaway.",
+    "url": "https://nypost.com/2022/09/03/pennsylvania-iron-workers-blast-bidens-student-loan-forgiveness/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/09/newspress-collage-23728829-1662240491396.jpg?quality=75&strip=all&1662226466&w=1024",
+    "publishedAt": "2022-09-03T22:02:00Z",
+    "content": "Blue collar Pennsylvania iron workers took a harsh view of President Biden’s $500 billion student loan giveaway, with many saying it was unfair to those who didn’t take on expensive debt for their de… [+1148 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Hanna Howard",
+    "title": "Amazon says 'The Lord of the Rings: The Rings of Power' watched by more than 25 million globally - CNBC",
+    "description": "Amazon says 'The Lord of the Rings: The Rings of Power' drew more than 25 million globally.",
+    "url": "https://www.cnbc.com/2022/09/03/amazon-says-the-rings-of-power-watched-by-more-than-25-million.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107113640-1662243133131-gettyimages-1242821181-dmb_2491.jpeg?v=1662243179&w=1920&h=1080",
+    "publishedAt": "2022-09-03T21:33:17Z",
+    "content": "Amazon said Saturday that the first episode of its \"The Lord of the Rings: The Rings of Power\" series attracted over 25 million viewers globally in its first day, making it the biggest ever debut for… [+1004 chars]"
+    },
+    {
+    "source": {
+    "id": "newsweek",
+    "name": "Newsweek"
+    },
+    "author": "Xander Landen",
+    "title": "Ukraine Plans 'Systemic Grinding' of Putin's Army to Take Kherson: Official - Newsweek",
+    "description": "A Ukrainian presidential adviser said forces are seeking to uncover Russia's \"operational logistical supply system and destroy it with artillery.\"",
+    "url": "https://www.newsweek.com/ukraine-plans-systemic-grinding-putins-army-take-kherson-official-1739670",
+    "urlToImage": "https://d.newsweek.com/en/full/2109631/ukraine-plans-systemic-grinding-putins-army.jpg",
+    "publishedAt": "2022-09-03T21:00:22Z",
+    "content": "As Ukraine seeks to regain Kherson—a city that Russia has occupied since the beginning of its invasion—the Ukrainian strategy involves \"the systemic grinding of Putin's army\" an adviser to Ukrainian … [+2677 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": null,
+    "title": "Mystery respiratory illness kills two health care workers and patient at clinic, sickens six others in Argentina - CBS News",
+    "description": "The mystery disease claimed its first victim among health personnel at the clinic on Monday and a second two days later.",
+    "url": "https://www.cbsnews.com/news/mystery-pneumonia-deaths-argentina/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/03/0fce0f9f-2c16-4812-8075-869568f9840a/thumbnail/1200x630/8986284196fe8aa22efe9a55dcf6cb8c/a5f4u0zc.jpg",
+    "publishedAt": "2022-09-03T19:52:27Z",
+    "content": "A third person has died this week in Argentina from a type of pneumonia of unknown origin, with the fatalities thus far limited to a single clinic, health authorities said Thursday.\r\nNine people in n… [+2758 chars]"
+    }
+    ]
+    }
