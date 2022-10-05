@@ -1,9 +1,9 @@
-import React, { Component } from "react";
+import React from "react";
 
 import alt_img from '../img/news_alt.jpg'
-export class NewsCard extends Component {
-  render() {
-    let {title, description, img_url, news_url, author, date, source}=this.props;
+const NewsCard =(props)=>{
+  
+    let {title, description, img_url, news_url, author, date, source}=props;
     return (
       <div className="my-3">
         <div className="card" style={{width: '18rem',backgroundColor:'rgb(252, 254, 255,0.2)'}}>
@@ -23,6 +23,6 @@ export class NewsCard extends Component {
       </div>
     );
   }
-}
+
 
 export default NewsCard;
