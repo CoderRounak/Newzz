@@ -1,4 +1,4 @@
-#.env.local
+# .env.local
 needs to be created in the project directory
 add the following :-
 ### `REACT_APP_API_KEY="***************"`
